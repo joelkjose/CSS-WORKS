@@ -1,0 +1,42 @@
+.row{
+    border: solid black 2px;
+    height: 500px;
+    width: 500px;
+    background-color: cadetblue;
+    position: relative;
+}
+.col{
+    height: 200px;
+    width: 100px;
+    border: solid 2px black;
+}
+
+.col-1{
+    position: absolute;
+    background-color: blue;
+}
+
+.col-2{
+    position: absolute;
+    background-color:greenyellow;
+    left: 105px;
+}
+
+.col-3{
+    position: absolute;
+    background-color: khaki;
+    left: 210px;
+}
+
+.col-4{
+    position: absolute;
+    background-color: blue;
+    left: 315px;
+}
+body{
+    background-image: url(./A\ Space\ Odyssey);
+    /*background cize cover-full  screen ill arrragne aavaan*/
+    background-repeat: no-repeat;
+    background-position: center;
+
+}

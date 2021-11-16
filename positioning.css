@@ -1,0 +1,20 @@
+.parent{
+    border: black solid 2px;
+    width: 500px;
+    height: 200px;
+    background-color: cadetblue;
+    position: relative;
+}
+.child{
+    position: absolute;
+    left: 100%;
+    width: 300px;
+    height: 100px;
+    background-color: green;
+}
+body{
+    background-color: black;
+}
+
+/*positioning == static(default)/ relative(neeed a child with absolute)
+ /absolute/ fixed */

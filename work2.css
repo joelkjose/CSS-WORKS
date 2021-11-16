@@ -1,0 +1,19 @@
+div{
+    
+    width: 100px;
+    height: 100px;
+    
+
+}
+#b1{
+    background-color: blue;
+}
+
+#b2{
+    background-color: chartreuse;
+    margin-left: 100px;
+    margin-top: -98px;
+}
+h1{
+text-align: center              ;
+}
